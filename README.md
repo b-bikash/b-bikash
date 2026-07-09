@@ -101,12 +101,11 @@ Desktop Point of Sale application featuring:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=b-bikash&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b-bikash&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-bikash&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=b-bikash&layout=compact&theme=github_dark"/>
 
 </p>
-
 ---
 
 ## 📫 Connect With Me
