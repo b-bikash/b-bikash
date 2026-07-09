@@ -5,109 +5,97 @@ Full-Stack Software Developer | MCA Graduate | Passionate about building scalabl
 </h3>
 
 <p align="center">
-<a href="https://bikashbaruah.in">Portfolio</a> •
-<a href="https://github.com/b-bikash">GitHub</a> •
-<a href="https://www.linkedin.com/in/bikash-baruah-20/">LinkedIn</a> •
-<a href="mailto:contact@bikashbaruah.in">Email</a>
+<a href="https://bikashbaruah.in">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/bikash-baruah-20/">💼 LinkedIn</a> •
+<a href="mailto:contact@bikashbaruah.in">📧 Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 MCA Graduate from KIIT University
-- 💻 Full-Stack Developer with experience in ASP.NET Core, React, WPF and SQL Server
+- 💻 Full-Stack Developer with experience in ASP.NET Core, React, WPF, SQL Server & REST APIs
 - 🚀 Passionate about building scalable software solutions
-- 🧩 Strong interest in clean architecture and software design
+- 🧩 Strong interest in Clean Architecture, Software Design and Modern Web Development
 - 🌱 Currently learning **Test Automation using Playwright**
 - 🤝 Open to Software Developer opportunities
 - 📍 Tinsukia, Assam, India
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,java,cs,js,ts,react,nextjs,dotnet,html,css,tailwind,bootstrap,mysql,postgres,sqlite,git,github,vscode&perline=9"/>
 
-### Frontend
-
-React • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
-
-### Backend
-
-ASP.NET Core • REST APIs • Entity Framework Core
-
-### Database
-
-SQL Server • SQLite • PostgreSQL • MySQL • Supabase
-
-### Tools
-
-Git • GitHub • VS Code • Vercel
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💼 Personal Portfolio
+## 💼 Personal Portfolio
 
-Modern portfolio website built using React, TypeScript, Tailwind CSS and Vite.
+A modern, responsive portfolio website built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
 
-🔗 https://bikashbaruah.in
+🔗 **Live:** https://bikashbaruah.in
 
 ---
 
-### 🏫 ExamVerse
+## 🏫 ExamVerse
 
-Online Examination System with advanced anti-cheat features including:
+A secure Online Examination System featuring:
 
 - Role-Based Access Control
 - Online Exams
 - Anti-Cheat Monitoring
 - Auto Evaluation
-- SQL Server
 - ASP.NET Core MVC
+- SQL Server
 
 ---
 
-### 🛒 CN POS (Universal POS)
+## 🛒 CN POS (Universal POS)
 
-Desktop Point of Sale application featuring:
+Desktop Point of Sale System featuring:
 
 - Billing & Invoicing
 - Inventory Management
 - Customer Management
-- Reports
+- Reports & Analytics
 - CSV / Excel Import & Export
 - WPF + Entity Framework Core
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- Google AI Essentials
-- Google AI Professional Certificate
-- Microsoft Full-Stack Development Courses
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b-bikash&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=b-bikash&layout=compact&theme=github_dark" />
-</p>
+- 🏅 Google AI Essentials
+- 🏅 Google AI Professional Certificate
+- 🏅 Microsoft Full-Stack Development Courses
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
+
+- 🎭 Test Automation using **Playwright**
+- ⚡ Writing maintainable end-to-end automation tests
+- 🔄 Modern CI/CD workflows for automated testing
+
+---
+
+# 📫 Connect With Me
 
 - 🌐 Portfolio: https://bikashbaruah.in
 - 💼 LinkedIn: https://www.linkedin.com/in/bikash-baruah-20/
 - 📧 Email: contact@bikashbaruah.in
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
